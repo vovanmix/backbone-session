@@ -1,0 +1,8 @@
+{
+  "name": "backbone.session",
+	"version": "1.0.1",
+	"main": ["./backbone.session.js"],
+	"dependencies": [ "backbone", "underscore", "backbone.app" ],
+  "ignore": [
+  ]
+}
